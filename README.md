@@ -1,6 +1,6 @@
 # 🧪 DuckDuckGo BDD Test Suite
 
-This repository contains behavior-driven tests for the [DuckDuckGo](https://duckduckgo.com) search engine, covering  its  web interface using `pytest-bdd`.
+This repository contains behavior-driven tests for the [DuckDuckGo](https://duckduckgo.com) search engine's web interface, implemented using pytest-bdd.
 
 ---
 
